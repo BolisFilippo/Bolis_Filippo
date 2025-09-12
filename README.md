@@ -50,7 +50,7 @@
 ## 📫 Connect with Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/filippo-bolis-332659332/)
-- 📧 [Email Me](mailto:bolisfilippo02@gmail,com)  
+- 📧 [Email Me](mailto:bolisfilippo02@gmail.com)  
 
 ---
 
