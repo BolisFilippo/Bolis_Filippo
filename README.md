@@ -49,8 +49,8 @@
 
 ## 📫 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/)  
-- 📧 [Email Me](mailto:your.email@example.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/filippo-bolis-332659332/)
+- 📧 [Email Me](mailto:bolisfilippo02@gmail,com)  
 
 ---
 
