@@ -16,26 +16,37 @@
 
 ## 📂 Featured Projects
 
-- [📊 Flight Price Analysis](https://github.com/your-username/flight-price-analysis)  
-  *Statistical Learning project: collection and analysis of flight price data to study patterns and trends using Machine Learning techniques.*  
+- [🏥 MED](https://github.com/DanieleGotti/MED).
+  *A software solution designed to support hospitals by automating patient data management — from admission to discharge.  
+  The system collects and stores vital signs and medical records, improving efficiency and data consistency, all through an intuitive graphical user interface (GUI).  
+  Developed as my **Bachelor's thesis**.*
 
-- [🔐 Security Playground](https://github.com/your-username/security-playground)  
-  *Hands-on experiments in cybersecurity, including cryptography, penetration testing basics, and application security.*  
+- [🌐 ConnecTEDx](https://github.com/DanieleGotti/ConnecTEDx).
+  *An innovative platform that connects people with shared interests by analyzing user activity while watching TEDx talks.  
+  The system generates a public profile summarizing individual interests, built with **AWS S3**, **APIs**, and **MongoDB**.*
 
-- [🤖 Optimization Algorithms](https://github.com/your-username/optimization-algorithms)  
-  *Practical implementations of algorithms such as SGD, Coordinate Descent, and Adam, with intuitive examples and visualizations.*  
+- [🗺️ SmarTrip](https://github.com/Gabriele-Mazzoleni/SmarTrip).
+  *A software solution designed to optimize trip planning.  
+  Based on the cities and places chosen by the user, the app suggests the best possible itinerary.  
+  Developed to provide an intuitive and efficient tool that saves time and enhances the travel experience using optimization algorithms and modern technologies.*
+
+- [📊 Statistical Learning Project: Aircraft Price Analysis](https://github.com/aminb00/StatisticalLearningProject).
+  *A statistical modeling project for commercial aircraft valuation.  
+  Focused on predicting prices, identifying key aircraft features, and analyzing nonlinear effects and feature interactions.  
+  Developed as part of the **Statistical Learning** course at the University of Bergamo (Prof. Francesco Finazzi), 2024/2025.*
+
+- [⚙️ OptimizationProject_2025](https://github.com/FilippoBolis/OptimizationProject_2025)  
+  *A project exploring optimization methods on a given dataset.  
+  The goal is to compare theoretical optimization models with standard Python libraries for gradient descent, providing a deeper study of optimization techniques and their practical validation.*
+
+- [🚗 Web Programming Project 2024](https://github.com/GabrieleMasinari27/ProgettoPW24_PFG).
+  *A simple web application for managing car dealership data.  
+  Initially developed with **PHP**, later extended with a **Django** implementation to handle data storage and processing.*
+
+
 
 ---
 
-## 📊 GitHub Stats
-
-- [Most Used Languages](https://github.com/anuraghazra/github-readme-stats)  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=default)  
-
-- [General Activity](https://github.com/anuraghazra/github-readme-stats)  
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default)  
-
----
 
 ## 📫 Connect with Me
 
