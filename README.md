@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Filippo
 
-🎓 Computer Engineer passionate about **Software Development**, **Cybersecurity**, and **Data Analysis**.  
-💡 I love bridging theory with practice by building projects that have real-world applications.  
+🎓 Bachelor's degree in Computer Engineering and currently completing a Master's degree in **Data Science and Data Engineering**.  
+💡 Interested in **Data Engineering**, **Machine Learning**, and **Software Development**, with a strong focus on turning complex data into actionable insights and building reliable, practical solutions.
 
 ---
 
