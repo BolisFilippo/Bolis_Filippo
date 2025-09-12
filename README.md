@@ -7,10 +7,10 @@
 
 ## 🔧 Skills
 
-- **Programming**: [Python](https://www.python.org/), [Java](https://www.java.com/), [C/C++](https://isocpp.org/), [PHP](https://www.php.net/), [SQL](https://en.wikipedia.org/wiki/SQL), [MySQL](https://www.mysql.com/)  
+- **Programming**: [Python](https://www.python.org/), [Java](https://www.java.com/), [C/C++](https://isocpp.org/), [PHP](https://www.php.net/), [SQL](https://en.wikipedia.org/wiki/SQL).
 - **Web Development**: [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [Web Services / APIs](https://en.wikipedia.org/wiki/Web_service)  
 - **Data & AI**: [Machine Learning](https://scikit-learn.org/), Statistical Analysis, AR/MA/ARMA Models, [MongoDB](https://www.mongodb.com/)  
-- **Tools & Platforms**: [Git](https://git-scm.com/), [Linux](https://www.linux.org/), [Docker](https://www.docker.com/), [Cloud Computing](https://aws.amazon.com/what-is-cloud-computing/), [AWS](https://aws.amazon.com/)
+- **Tools & Platforms**: [Git](https://git-scm.com/), [Cloud Computing](https://aws.amazon.com/what-is-cloud-computing/), [AWS](https://aws.amazon.com/)
 
 ---
 
