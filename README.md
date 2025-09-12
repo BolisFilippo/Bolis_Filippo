@@ -1,42 +1,47 @@
-# 👋 Ciao, sono Filippo
+# 👋 Hi, I'm Filippo
 
-![Banner](https://img.shields.io/badge/Computer%20Engineer-Data%20%7C%20Security%20%7C%20AI-blue)  
-![GitHub followers](https://img.shields.io/github/followers/tuo-username?style=social)  
-![GitHub stars](https://img.shields.io/github/stars/tuo-username?style=social)
-
----
-
-## 🧑‍💻 About me
-- 🎓 Ingegnere informatico  
-- 🔐 Appassionato di sicurezza informatica  
-- 📊 Esperienza in analisi dati e modelli predittivi  
-- 🤖 Mi piace esplorare algoritmi di ottimizzazione e ML  
+🎓 Computer Engineer passionate about **Software Development**, **Cybersecurity**, and **Data Analysis**.  
+💡 I love bridging theory with practice by building projects that have real-world applications.  
 
 ---
 
-## 🚀 Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+## 🔧 Skills
+
+- **Programming**: [Python](https://www.python.org/), [Java](https://www.java.com/), [C/C++](https://isocpp.org/), [SQL](https://en.wikipedia.org/wiki/SQL)  
+- **Web Development**: [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
+- **Data & AI**: [Machine Learning](https://scikit-learn.org/), Statistical Analysis, AR/MA/ARMA Models  
+- **Tools & Platforms**: [Git](https://git-scm.com/), [Linux](https://www.linux.org/), [Docker](https://www.docker.com/), Management Control Systems  
 
 ---
 
-## 📂 Progetti in evidenza
-- 🔗 [Analisi prezzi aerei](https://github.com/tuo-username/progetto-aerei)  
-- 🔗 [Security Playground](https://github.com/tuo-username/security-lab)  
-- 🔗 [Algoritmi di ottimizzazione](https://github.com/tuo-username/optimization-algos)  
+## 📂 Featured Projects
+
+- [📊 Flight Price Analysis](https://github.com/your-username/flight-price-analysis)  
+  *Statistical Learning project: collection and analysis of flight price data to study patterns and trends using Machine Learning techniques.*  
+
+- [🔐 Security Playground](https://github.com/your-username/security-playground)  
+  *Hands-on experiments in cybersecurity, including cryptography, penetration testing basics, and application security.*  
+
+- [🤖 Optimization Algorithms](https://github.com/your-username/optimization-algorithms)  
+  *Practical implementations of algorithms such as SGD, Coordinate Descent, and Adam, with intuitive examples and visualizations.*  
 
 ---
 
-## 📊 Statistiche
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuo-username&layout=compact&theme=dracula)  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tuo-username&show_icons=true&theme=dracula)
+## 📊 GitHub Stats
+
+- [Most Used Languages](https://github.com/anuraghazra/github-readme-stats)  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=default)  
+
+- [General Activity](https://github.com/anuraghazra/github-readme-stats)  
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default)  
 
 ---
 
-## 📫 Contatti
-- 💼 [LinkedIn](https://www.linkedin.com/in/tuo-nome/)  
-- 📧 tuo.email@example.com
+## 📫 Connect with Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/)  
+- 📧 [Email Me](mailto:your.email@example.com)  
+
+---
+
+✨ *Always curious to explore new technologies and tackle new challenges.*
