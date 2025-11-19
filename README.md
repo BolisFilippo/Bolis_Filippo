@@ -16,6 +16,20 @@
 
 ## 📂 Featured Projects
 
+### 🏆 Master's Thesis
+**A Serverless Cloud Architecture Project**
+
+### [☁️ Alumni Cloud Platform](https://github.com/BolisFilippo/Alumni-Cloud-Platform) (WIP)
+> *A cloud-based analytics platform designed to collect, process, and visualize alumni career data using a Serverless approach on AWS.*
+
+**Key Features:**
+*   **Cloud-Native Architecture**: Built entirely on **AWS** using **Lambda** (Serverless computing), **S3** (Data Lake), and **API Gateway**.
+*   **Advanced Data Engineering**: Implements scalable ingestion pipelines (Batch & Real-time), Data Fusion, and cleaning processes.
+*   **Security & Compliance**: Ensures GDPR compliance with **AWS KMS** encryption and granular access control via **IAM**.
+*   **Full Stack Implementation**: Data is stored in **MongoDB** for dynamic access and visualized through an interactive dashboard for predictive analytics.
+
+---
+
 ### 💻 Software Development & Applications
 - [🏥 MED](https://github.com/DanieleGotti/MED)  
   *A software solution supporting hospitals by automating patient data management — from admission to discharge.  
